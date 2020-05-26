@@ -88,9 +88,9 @@ body { word-wrap:break-word; }
 /* Make sure scaled-down images look good in IE */
 img { -ms-interpolation-mode: bicubic; }
 
-.HTMLElement { overflow:hidden; }
-
 .photogrid-index-bottom { clear:left; }
+
+.HTMLElement { overflow:hidden; }
 
 /*
 Design Name:  Blueball Reactive
